@@ -4,7 +4,7 @@
             "outputFile": "com.yourorg.financy_app_new.app-mergeDebugResources-36:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\FADEX\\Documents\\docs\\faculdade\\dart\\finance\\financy_app_new\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\vhand\\Downloads\\docs\\docs\\faculdade\\dart\\finance\\financy_app_new\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
